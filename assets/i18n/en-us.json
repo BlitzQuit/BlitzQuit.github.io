@@ -225,6 +225,15 @@
   },
   "contactus":{
     "titlehighlight":"C",
-    "title":"ontact Us"
+    "title":"ontact Us",
+    "tel":"Telephone",
+    "mail":"Mail",
+    "address":"Address",
+    "form":{
+      "name":"Name",
+      "email":"Email",
+      "message":"Message",
+      "button":"Submit"
+    }
   }
 }
